@@ -1,1 +1,1 @@
-# Suicidal-Content-Detection
+# Text2Tale Generation
